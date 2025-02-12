@@ -1,6 +1,5 @@
 # 🌟 Welcome to Campus To Crypto GitHub Enterprise
 
-![Community Logo](https://via.placeholder.com/150)
 
 ## 🚀 About Us
 Join **Campus To Crypto**, a hub for blockchain developers, Web3 enthusiasts, and open-source contributors! We collaborate, learn, and build decentralized applications (dApps) in an inclusive space.
